@@ -1,0 +1,27 @@
+{
+  "name": "iot-tangle-example",
+  "version": "1.0.0",
+  "description": "A simple iot example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabryprog/iot-tangle-example.git"
+  },
+  "keywords": [
+    "iota",
+    "iot",
+    "tangle"
+  ],
+  "author": "Fabryprog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabryprog/iot-tangle-example/issues"
+  },
+  "homepage": "https://github.com/Fabryprog/iot-tangle-example#readme",
+  "dependencies": {
+    "iota.lib.js": "^0.4.7"
+  }
+}
